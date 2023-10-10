@@ -4,8 +4,6 @@
 
 The Stock Intrinsic Value Calculator is an Android application designed to help users determine the intrinsic value of a stock based on various financial metrics and indicators. This app automates the calculations by pulling real-time data from Yahoo Finance's API.
 
-## Video
-[Click here for video](https://www.youtube.com/watch?v=mHDBsDUByY4)
 
 ## Features
 
